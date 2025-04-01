@@ -21,6 +21,12 @@ This tool demonstrates one such simplified watermark analysis.
 
 ---
 
+## 📸 Preview
+
+<img src="https://github.com/jananitkt/llm-watermarking-detector/blob/main/preview.png" alt="llm-watermarking-detector UI Screenshot" width="100%" />
+
+---
+
 ## 🚀 How It Works
 
 1. Paste any paragraph or document text
